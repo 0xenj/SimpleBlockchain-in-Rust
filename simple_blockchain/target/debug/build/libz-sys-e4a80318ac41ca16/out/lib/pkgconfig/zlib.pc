@@ -1,0 +1,13 @@
+prefix=C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libz-sys-e4a80318ac41ca16\out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

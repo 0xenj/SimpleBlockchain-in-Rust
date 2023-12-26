@@ -1,0 +1,14 @@
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\liblibp2p_identify-d5b3dd90eb44c420.rmeta: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\handler.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\identify.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\protocol.rs C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-identify-61f8314d53dbb599\out/structs.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\liblibp2p_identify-d5b3dd90eb44c420.rlib: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\handler.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\identify.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\protocol.rs C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-identify-61f8314d53dbb599\out/structs.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\libp2p_identify-d5b3dd90eb44c420.d: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\handler.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\identify.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\protocol.rs C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-identify-61f8314d53dbb599\out/structs.rs
+
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\lib.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\handler.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\identify.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-identify-0.30.0\src\protocol.rs:
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-identify-61f8314d53dbb599\out/structs.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.30.0
+# env-dep:OUT_DIR=C:\\Users\\enzoj\\OneDrive\\Documents\\GitHub\\SimpleBlockchain-in-Rust\\simple_blockchain\\target\\debug\\build\\libp2p-identify-61f8314d53dbb599\\out

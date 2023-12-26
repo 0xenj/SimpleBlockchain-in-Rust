@@ -1,0 +1,1 @@
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\SimpleBlockchain.exe: C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\src\main.rs

@@ -1,0 +1,11 @@
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\libprost-2c99285de002c926.rmeta: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\message.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\types.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\encoding.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\libprost-2c99285de002c926.rlib: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\message.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\types.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\encoding.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\prost-2c99285de002c926.d: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\message.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\types.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\encoding.rs
+
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\lib.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\error.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\message.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\types.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.8.0\src\encoding.rs:

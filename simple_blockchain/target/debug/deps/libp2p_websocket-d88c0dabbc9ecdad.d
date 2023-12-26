@@ -1,0 +1,10 @@
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\liblibp2p_websocket-d88c0dabbc9ecdad.rmeta: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\framed.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\tls.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\liblibp2p_websocket-d88c0dabbc9ecdad.rlib: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\framed.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\tls.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\libp2p_websocket-d88c0dabbc9ecdad.d: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\framed.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\tls.rs
+
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\lib.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\error.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\framed.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-websocket-0.30.0\src\tls.rs:

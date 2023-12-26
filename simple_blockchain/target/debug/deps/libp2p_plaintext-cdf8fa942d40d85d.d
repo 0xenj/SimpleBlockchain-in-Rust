@@ -1,0 +1,12 @@
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\liblibp2p_plaintext-cdf8fa942d40d85d.rmeta: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\handshake.rs C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-plaintext-33b663cf50c05685\out/structs.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\liblibp2p_plaintext-cdf8fa942d40d85d.rlib: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\handshake.rs C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-plaintext-33b663cf50c05685\out/structs.rs
+
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\deps\libp2p_plaintext-cdf8fa942d40d85d.d: C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\lib.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\error.rs C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\handshake.rs C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-plaintext-33b663cf50c05685\out/structs.rs
+
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\lib.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\error.rs:
+C:\Users\enzoj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libp2p-plaintext-0.29.0\src\handshake.rs:
+C:\Users\enzoj\OneDrive\Documents\GitHub\SimpleBlockchain-in-Rust\simple_blockchain\target\debug\build\libp2p-plaintext-33b663cf50c05685\out/structs.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\enzoj\\OneDrive\\Documents\\GitHub\\SimpleBlockchain-in-Rust\\simple_blockchain\\target\\debug\\build\\libp2p-plaintext-33b663cf50c05685\\out
